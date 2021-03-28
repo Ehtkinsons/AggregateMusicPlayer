@@ -7,6 +7,11 @@ to do something different please drop it in the gc.
 
 Music Player:
 https://www.codespeedy.com/build-a-music-player-with-tkinter-and-pygame-in-python/
+
+The file itself might not work if used in an ide, works best in terminal with tkinter and pygame installed. Tried this on linux and worked fine,
+my ides on windows & browser gave me trouble, I might just be incompetent
+
+
 Kivy:
 https://realpython.com/mobile-app-kivy-python/
 Tkinter Doc:
