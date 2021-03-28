@@ -1,0 +1,53 @@
+The goal of this project is to create a music app that collates tracks and playlists from services such as spotify, youtube, soundcloud, or pandora. 
+I've been experimenting with using python frameworks Tkinter for the player and Kivy for the app face, but if you're more comfortable with it we can use java for the GUI and operations within, and 
+I'll drop the example files for our project itself in the repository within the coming week, if not in at few days. I grabbed a python-based music player example program from the site listed below, and it
+will also be placed in this repository, just to look at. I'm also going to put a link to the tkinter documentation on the python site, as well as an article that'll serve as an intro to kivy. I should
+stress that this is a prototype- not sure how seriously I should be taking a project I called doinky -and that I'm really just fucking around to get out of my comfort zone with python. Again, if you want
+to do something different please drop it in the gc.   
+
+Music Player:
+https://www.codespeedy.com/build-a-music-player-with-tkinter-and-pygame-in-python/
+Kivy:
+https://realpython.com/mobile-app-kivy-python/
+Tkinter Doc:
+https://docs.python.org/3/library/tkinter.html#module-tkinter
+
+						 
+I think it's going to be very important for us to figure out effective ways to use web scrapers
+and familiarize ourselves with the ins and outs or requirements of the APIs we'll be using, if we can even use them in the way envisioned above. 
+
+I'll link some documentation and sign-up sheets below. Before we start talking features and stuff we need to 
+make sure we know what we can do from the get-go to make a functioning prototype, whether it be an app, site, or both. 
+
+If this is going to be used and once we figure out how to go about actually making this thing, we should talk about
+social features, if we are going to add anything at all. Myspace is doing what we're planning to do, sort of, albeit without 
+things that make a music service or a social media service useful in the slightest.
+
+I've included a sample program which includes a  
+
+
+SPOTIFY API ADDRESS: api.spotify.com
+
+https://developer.spotify.com/
+https://developer.spotify.com/documentation/web-api/
+https://developer.spotify.com/terms/
+
+YOUTUBE API ADDRESS: 
+
+https://developers.google.com/youtube/v3
+https://developers.google.com/youtube/v3/determine_quota_cost
+https://developers.google.com/youtube/v3/docs/?apix=true
+
+YOUTUBE SDK
+https://developers.google.com/youtube/v3/code_samples/python
+
+
+SOUNDCLOUD API ADDRESS: 
+
+https://developers.soundcloud.com/
+https://developers.soundcloud.com/docs
+
+Soundcloud SDK
+https://developers.soundcloud.com/docs/api/sdks
+https://github.com/soundcloud/soundcloud-python
+FYI: The master has not been updated in about 5 years. Consult github or stack overflow for issues and explanations. 
